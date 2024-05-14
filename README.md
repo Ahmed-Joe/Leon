@@ -1,5 +1,5 @@
 # Leon
-## project num. 1
-### used technology:
+## Project num. 1
+### Used technology:
 #### => HTML
 #### => CSS
